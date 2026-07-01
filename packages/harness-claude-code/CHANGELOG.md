@@ -1,5 +1,14 @@
 # @ai-sdk/harness-claude-code
 
+## 1.0.12
+
+### Patch Changes
+
+- 7859cea: feat(harness): add tool filtering via `activeTools` and `inactiveTools`
+- 7a24276: fix(harness-claude-code): declare Claude Code's Monitor tool as built-in tool
+- Updated dependencies [7859cea]
+  - @ai-sdk/harness@1.0.12
+
 ## 1.0.11
 
 ### Patch Changes

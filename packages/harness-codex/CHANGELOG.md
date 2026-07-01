@@ -1,5 +1,13 @@
 # @ai-sdk/harness-codex
 
+## 1.0.13
+
+### Patch Changes
+
+- 7859cea: feat(harness): add tool filtering via `activeTools` and `inactiveTools`
+- Updated dependencies [7859cea]
+  - @ai-sdk/harness@1.0.12
+
 ## 1.0.12
 
 ### Patch Changes
